@@ -7,3 +7,7 @@ package org.jackey;
  */
 public class Zx {
 }
+
+class Person {
+
+}
