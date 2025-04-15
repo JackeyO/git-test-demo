@@ -6,6 +6,8 @@ package org.jackey;
  * @date 4/14/25 22:28
  */
 public class Zx {
+  public static void main() {
+    System.out.println("bagayalu");
 }
 
 class Person {
