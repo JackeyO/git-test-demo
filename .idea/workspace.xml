@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11002ae-8271-4f32-97cc-bbb9a84aabf7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jackey/Zx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jackey/Zx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <updated>1744637083687</updated>
       <workItem from="1744637084871" duration="2966000" />
       <workItem from="1744682126055" duration="7000" />
-      <workItem from="1744727565309" duration="247000" />
+      <workItem from="1744727565309" duration="680000" />
     </task>
     <servers />
   </component>
@@ -92,7 +92,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
